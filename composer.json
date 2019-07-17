@@ -1,0 +1,19 @@
+{
+  "name": "armezit/wfpc",
+  "description": "Magento full page cache warmer",
+  "keywords": [
+    "magento2",
+    "cache"
+  ],
+  "type": "library",
+  "authors": [
+    {
+      "name": "Nathan Nobbe",
+      "email": "quickshiftin@gmail.com"
+    },
+    {
+      "name": "Armin Rezayati",
+      "email": "armin.rezayati@gmail.com"
+    }
+  ]
+}

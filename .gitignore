@@ -10,3 +10,8 @@ public/apc.php
 *.swp
 *.swo
 *.swn
+
+.idea
+.project
+.buildpath
+.settings
