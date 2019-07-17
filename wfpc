@@ -1,4 +1,4 @@
-#!/usr/bin/php
+#!/usr/bin/env php
 <?php
 /**
  * Warm a Magento Full Page Cache.
