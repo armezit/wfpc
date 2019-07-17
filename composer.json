@@ -15,5 +15,6 @@
       "name": "Armin Rezayati",
       "email": "armin.rezayati@gmail.com"
     }
-  ]
+  ],
+  "bin": ["wfpc"]
 }
